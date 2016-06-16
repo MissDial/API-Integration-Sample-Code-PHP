@@ -1,18 +1,15 @@
 
 ## Installation
 
-  -> Clone/Copy the files in this directory into `https://github.com/MissDial/API-Integration-Sample-Code-PHP`
+Create a new database or use existing database.
+Import the database script located at schema/script.sql
 
-#First Step
-    
-	-> First  Create Database
-#Second Step
-   -> open simple-demo.php file
-   -> Change servername from Your Own Servername
-   -> Change username from your own database usename
-   -> Change password from your own database password
-#Third Step 
-   -> Go in schema folder,open script.sql and copy sql code and execute
-   
-    
-  
+In simple-demo.php change servername, usernameand password from own database
+
+Please note these files should be uploaded on some publicly accessible server (not on localhost)
+
+Configure your trigger API from your MissDial Account
+
+Refer below link for details on configuration
+
+http://kb.missdial.com/article/configure-trigger-api/
