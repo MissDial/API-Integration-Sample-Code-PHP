@@ -1,5 +1,5 @@
 
-## README
+## Sample PHP code for integrating MissDial Service via HTTP API
 
 Create a new database or use existing database.
 Import the database script located at schema/script.sql
